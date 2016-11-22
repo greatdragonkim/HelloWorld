@@ -12,16 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView main_TextView = (TextView) findViewById(R.id.main_TextView);
-        //main_TextView.setText("Hello World!" + "\n" +
-        //                        "First Modified");
-
-        //main_TextView.setText("Hello World!" + "\n" +
-        //                        "First Modified" + "\n" +
-        //                        "Second Modified");
-
-        main_TextView.setText("Hello World!" + "\n" +
-                "First Modified" + "\n" +
-                "Second Modified" + "\n" +
-                "Third Modified");
+        main_TextView.setText("Last Modified - Remote Repository");
     }
 }
