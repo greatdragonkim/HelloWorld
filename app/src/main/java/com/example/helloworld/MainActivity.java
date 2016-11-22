@@ -15,8 +15,13 @@ public class MainActivity extends AppCompatActivity {
         //main_TextView.setText("Hello World!" + "\n" +
         //                        "First Modified");
 
+        //main_TextView.setText("Hello World!" + "\n" +
+        //                        "First Modified" + "\n" +
+        //                        "Second Modified");
+
         main_TextView.setText("Hello World!" + "\n" +
-                                "First Modified" + "\n" +
-                                "Second Modified");
+                "First Modified" + "\n" +
+                "Second Modified" + "\n" +
+                "Third Modified");
     }
 }
