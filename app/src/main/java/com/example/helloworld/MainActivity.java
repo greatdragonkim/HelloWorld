@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         TextView main_TextView = (TextView) findViewById(R.id.main_TextView);
         main_TextView.setText("Last Modified - Remote Repository");
+        // merge 직접 수정 테스트 - Remote
     }
 }
